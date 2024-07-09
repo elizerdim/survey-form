@@ -10,8 +10,8 @@ This is a solution to the [Survey Form project for responsive web design certifi
 
 ### Links
 
-- [View Code]()
-- [Live Preview]()
+- [View Code](https://github.com/elizerdim/survey-form)
+- [Live Preview](https://elizerdim.github.io/survey-form/)
 
 ## My process
 
